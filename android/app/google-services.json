@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031055663048",
+    "project_id": "teambalance-3e011",
+    "storage_bucket": "teambalance-3e011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031055663048:android:40a90628950fce36126afd",
+        "android_client_info": {
+          "package_name": "team_balance.com.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQW4nr7GM8JjQ1B6GyPfh_ZcS6Y2wwc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
